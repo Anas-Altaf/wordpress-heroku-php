@@ -23,7 +23,7 @@
     }
   },
   "addons": [
-    "cleardb:scream",
+    "cleardb",
     "sendgrid",
     "memcachier:100",
     "papertrail:fixa",
