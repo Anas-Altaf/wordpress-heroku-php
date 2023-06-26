@@ -23,10 +23,10 @@
     }
   },
   "addons": [
-    "cleardb",
+    "cleardb:scream",
     "sendgrid",
-    "memcachier",
-    "papertrail",
-    "newrelic"
+    "memcachier:100",
+    "papertrail:fixa",
+    "newrelic:hawke"
   ]
 }
